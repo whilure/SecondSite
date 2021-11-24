@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #F3F0D7;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 20px;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.topcontainer {
+  background-color: #CEE5D0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middlecontainer {}
+
+.bottomcontainer {
+  margin-top: 10px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profilepic {
+  height: 175px;
+  margin-top: 100px;
+}
+
+.skillsimg {
+  width: 18%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mobilephone {
+  width: 18%;
+  float: right;
+  margin-left: 30px;
+}
+
+.available {
+  font-size: 20px;
+  margin: 40px auto;
+}
+
+.programmer {
+  font-size: 25px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.contact-me{
+  width:50%;
+  margin: auto auto 100px;
+}
+.contact-me p {
+  margin-bottom: 50px;
+}
+footer{
+    background: #FED2AA;
+    margin: 0 auto;
+    height: 75px;
+    padding-top: 30px;
+    width: 100%;
+    text-align: center;
+}
+.footer-link{
+  padding: 0 10px;
+}
+footer p {
+  font-size: 10px;
+  color: #EAF6F6;
+  padding-top: 10px;
+}
+hr {
+  border-color:grey;
+   border-width:5px;
+   border-style:dotted none none;
+   width:5%;
+  margin: 100px auto;
+
+}
+.profile p{
+  width:50%;
+margin: auto auto 100px auto;
+}
+.mountain{
+  height: 400px;
+margin-top: 100px;
+}
